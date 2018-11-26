@@ -1,1 +1,0 @@
-<div align="center"> <img src="./pics/VP6n3i8W48Ptde8NQ9_0eSR5eOD6uqx.png"/> </div><br>
