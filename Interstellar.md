@@ -2,7 +2,7 @@
 
 <div align="left"> <img src="./pics/interstellar.jpg"> </div>
 
-- Director: Chistopher Nolan<br>
+- Director: Christopher Nolan<br>
 - Writers: Jonathan Nolan, Christopher Nolan<br>
 - Stars: Matthew McConaughey, Anne Hathaway, Jessica Chastain<br><br>
 - Date&Location: 12/28/2018, SYSU/351 （木鱼微剧场）
